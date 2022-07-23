@@ -1,2 +1,2 @@
-# dio-projeto-final-git-github
-Repositório destinado ao projeto final do Git/GitHub
+# Santander Code Girls - Introdução ao Git e Github
+Repositório destinado ao projeto final do Santander Code Girls - DIO
